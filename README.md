@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Shivani 👋
 
-<!--
-**iamshivani7/iamshivani7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Artificial Intelligence and Data Science Student
 
-Here are some ideas to get you started:
+💻 Interested in Machine Learning, AI and Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- Python
+- Machine Learning
+- SQL
+- Streamlit
+- Git & GitHub
+
+### Connect with me
+- [GitHub](https://github.com/iamshivani7)
